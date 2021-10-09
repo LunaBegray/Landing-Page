@@ -52,7 +52,15 @@ border-radius:8px;
 .header-p2{
 font-size: 36px;
 font-weight:bold;
-justify-content:center;
-align-items:center;
+margin-left:600px;
 padding: 20px
+}
+.content-p2-img{
+border-color:blue;
+border-width:4px;
+display:flex;
+justify-content:center;
+column-gap: 20px;
+width:20%;
+height:auto;
 }
