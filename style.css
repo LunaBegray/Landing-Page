@@ -87,6 +87,7 @@ display:flex;
 justify-content:center;
 gap:20px;
 height:300px;
+align-items:center;
 }
 .content-p3-quote{
 color:darkgray;
