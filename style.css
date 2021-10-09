@@ -85,12 +85,13 @@ width:300px;
 background-color:gray;
 display:flex;
 justify-content:center;
-gap:5px;
+gap:20px;
+height:300px;
 }
 .content-p3-quote{
 color:darkgray;
 font-style:italic;
-width:400px;
+width:150px;
 font-size:32px;
 text-align:center;
 }
