@@ -1,4 +1,17 @@
 .part-1{
-background: color #1f2937;
 padding:10px;
+height: 400px;
+}
+.header-p1{
+background: color #1f2937;
+display:flex;
+padding: 12px;
+margin-left:50px;
+}
+.header-p1-right{
+margin-left: 100px;
+color:white;
+}
+.header-p1-left{
+color:white
 }
