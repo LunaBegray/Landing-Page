@@ -49,3 +49,10 @@ background-color:skyblue;
 border:none;
 border-radius:8px;
 }
+.header-p2{
+font-size: 36px;
+font-weight:bold;
+justify-content:center;
+align-items:center;
+padding: 20px
+}
