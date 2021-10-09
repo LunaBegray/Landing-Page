@@ -23,3 +23,15 @@ margin-right:400px;
 .header-p1-left,.header-p1-right{
 color:white;
 }
+.content-p1-left{
+
+}
+.content-p1-right{
+
+}
+.content-p1{
+display:flex;
+justify-content:center;
+column-gap:20px;
+flex-wrap: wrap;
+}
