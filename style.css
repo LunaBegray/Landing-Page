@@ -24,7 +24,7 @@ margin-right:400px;
 color:white;
 }
 .content-p1-left{
-
+color:white;
 }
 .content-p1-right{
 
@@ -34,4 +34,16 @@ display:flex;
 justify-content:center;
 column-gap:20px;
 flex-wrap: wrap;
+}
+#content-p1-left-p1{
+font-size: 48px;
+font-weight:bold;
+}
+#content-p1-left-p2{
+font-size: 18px;
+}
+#content-p1-left-p3{
+color:white;
+background-color:skyblue;
+border:none;
 }
