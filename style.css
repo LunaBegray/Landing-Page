@@ -56,11 +56,17 @@ margin-left:600px;
 padding: 20px
 }
 .content-p2-img{
+padding:5px;
 border-color:blue;
 border-width:4px;
 display:flex;
-justify-content:center;
+justify-content:flex-start;
 column-gap: 20px;
-width:20%;
+}
+.content-p2-img-i{
+width:150px;
 height:auto;
+border-color:blue;
+border-width:8px;
+border-radius:5px;
 }
