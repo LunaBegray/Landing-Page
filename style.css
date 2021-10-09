@@ -104,6 +104,8 @@ font-size:20px;
 .part-4{
 display:flex;
 justify-content:center;
+padding:50px;
+align-items:center;
 }
 .content-p4-container{
 background-color:#3882F6;
@@ -120,4 +122,5 @@ border-radius:6px;
 background-color:#3382F6;
 border:white;
 border-width:8px;
+align-items:center;
 }
