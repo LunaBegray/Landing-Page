@@ -10,14 +10,16 @@ margin-left:150px;
 margin-bottom:20px;
 column-gap:20px;
 justify-content:center;
-column-gap:10px;
+align-items:center;
+column-gap:30px;
 }
 .header-p1-right{
 font-size: 18px;
+margin-left:100px
 }
 .header-p1-left{
 font-size: 28px;
-margin-right:100px;
+margin-right:400px;
 }
 .header-p1-left,.header-p1-right{
 color:white;
