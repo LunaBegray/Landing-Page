@@ -13,8 +13,11 @@ column-gap:20px;
 }
 .header-p1-right{
 margin-left: 300px;
-color:white;
 }
 .header-p1-left{
-color:white
+
+}
+.header-p1-left,.header-p1-right{
+color:white;
+background-color:#1f2937;
 }
