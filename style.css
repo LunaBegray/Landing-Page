@@ -25,9 +25,11 @@ color:white;
 }
 .content-p1-left{
 color:white;
+
 }
 .content-p1-right{
-
+height:200;
+width:auto;
 }
 .content-p1{
 display:flex;
